@@ -1,1 +1,2 @@
-# 欢迎，这里是[256472.github.io](https://256472.github.io)的分站
+# 欢迎光临，本页面作为test供256472使用。
+<div align="center"><font size="5">test</div></font>
